@@ -1,3 +1,9 @@
 [submodule "sspanel"]
 	path = sspanel
 	url = https://github.com/NimaQu/ss-panel-v3-mod_Uim
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/WordPress/WordPress
+[submodule "typecho"]
+	path = typecho
+	url = https://github.com/typecho/typecho
